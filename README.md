@@ -13,3 +13,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=absanthosh&layout=compact" alt="absanthosh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=absanthosh&show_icons=true" alt="absanthosh" /></p>
+
+<a href="https://MY_VERCEL_DEPLOYMENT_URL/now-playing?open">
+    <img src="https://MY_VERCEL_DEPLOYMENT_URL/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
