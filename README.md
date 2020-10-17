@@ -14,6 +14,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=absanthosh&show_icons=true" alt="absanthosh" /></p>
 
-<a href="https://https%3A%2F%2Fabs-anthosh.vercel.app%2F/now-playing?open">
-    <img src="https://https%3A%2F%2Fabs-anthosh.vercel.app%2F/now-playing" width="256" height="64" alt="Now Playing">`
+<a href="https://abs-anthosh.vercel.app/now-playing?open">
+    <img src="https://abs-anthosh.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
