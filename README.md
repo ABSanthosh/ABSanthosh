@@ -15,7 +15,7 @@
   
 - 📫 How to reach me **a.b.santhosh02@gmail.com**  
   
-- ⚡ Fun fact **Cats are love💜**
+- ⚡ Fun fact **Internet is made for sharing cat videos💜**
 
 <h3 align="center">Connect with me</h3> 
 <p align="center">   
