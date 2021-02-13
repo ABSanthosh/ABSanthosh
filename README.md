@@ -3,19 +3,8 @@
 <div>
 <img src="https://user-images.githubusercontent.com/24393343/96300146-b65dfa00-1012-11eb-8d75-290026cbd955.png"><div>
  I'm ABSanthosh</h1>
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css">
 <h3 align="center">Fixing bugs :bug: from India</h3>
-
-- 🔭 I’m currently working on **Nyble**  
-  
-- 🌱 I’m currently learning **Flutter, Node.js**  
-  
-- 👯 I’m looking to collaborate on **anything open source**  
-  
-- 💬 Ask me about **python, Django and any other tech that I know**  
-  
-- 📫 How to reach me **a.b.santhosh02@gmail.com**  
-  
-- ⚡ Fun fact **Internet is made for sharing cat videos💜**
 
 <h3 align="center">Connect with me</h3> 
 <p align="center">   
@@ -27,8 +16,24 @@
 
 <h3 align="center">Languages and Tools that I know and use:</h3>
 <p align="center"> 
-<a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>&nbsp <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&nbsp <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> &nbsp<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>&nbsp <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp<a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> &nbsp<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> &nbsp<a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> &nbsp<a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
+<a href="https://developer.android.com" target="_blank"> 
+<img src="https://img.icons8.com/fluent/2x/android-os.png" alt="android" width="40" height="40"/> 
+</a>
+<img src="https://img.icons8.com/color/2x/blender-3d.png" alt="blender" width="40" height="40"/> 
+</a><a href="https://www.cprogramming.com/" target="_blank"> 
+<img src="https://img.icons8.com/color/2x/c-programming.png" alt="c" width="40" height="40"/> 
+</a>
+ <a href="https://www.w3schools.com/css/" target="_blank">
+ <img src="https://img.icons8.com/color/2x/css3.png" alt="css3" width="40" height="40"/> </a> 
+ <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/2x/django.png" alt="django" width="40" height="40"/> </a> 
+ <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/2x/html-5.png" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/2x/javascript.png" alt="javascript" width="40" height="40"/> </a><a href="https://kotlinlang.org" target="_blank"> <img src="https://img.icons8.com/color/2x/kotlin.png" alt="kotlin" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/officel/2x/react.png" alt="reactjs" width="40" height="40"/> </a>
+ <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/2x/python.png" alt="python" width="40" height="40"/> </a>  
+ <img src="https://img.icons8.com/color/2x/sass.png" alt="sass" width="40" height="40"/>
+<img src="https://img.icons8.com/color/2x/nodejs.png" alt="nodejs" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/2x/mongodb.png" alt="Mongodb" width="40" height="40"/> 
+
+
+</p>
 
 <h2>Some stats...</h2>
 
