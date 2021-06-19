@@ -44,6 +44,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=absanthosh&label=Profile%20views&color=0e75b6&style=flat" alt="absanthosh" /> </p>
 
+<details>
+<summary>Freebies...</summary>
+<br>
 <p align="center">
 <img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/ABSanthosh/ABSanthosh/blob/main/nice.gif?raw=true">
 </p>
