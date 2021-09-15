@@ -37,10 +37,10 @@
 
 <h2>Some stats...</h2>
 
-<p align="center">&nbsp;<img src="https://raw.githubusercontent.com/ABSanthosh/Stats/fdece95dc24aa5ea8e09ffe60f5819217cc206a7/generated/overview.svg?token=AF2DM7ZK55USUJZWBPDVWHLBIIA7G" alt="absanthosh" />
+<p align="center">&nbsp;<img src="https://raw.githubusercontent.com/ABSanthosh/Stats/fdece95dc24aa5ea8e09ffe60f5819217cc206a7/generated/languages.svg" alt="absanthosh" />
 </p>
 
-<p  align="center" ><img src="https://raw.githubusercontent.com/ABSanthosh/Stats/fdece95dc24aa5ea8e09ffe60f5819217cc206a7/generated/languages.svg?token=AF2DM75YVCJK2AHCZ65AEF3BIIBF2" alt="absanthosh" /></p>
+<p  align="center" ><img src="https://raw.githubusercontent.com/ABSanthosh/Stats/fdece95dc24aa5ea8e09ffe60f5819217cc206a7/generated/languages.svg" alt="absanthosh" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=absanthosh&label=Profile%20views&color=0e75b6&style=flat" alt="absanthosh" /> </p>
 
