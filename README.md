@@ -36,11 +36,7 @@
 </p>
 
 <h2>Some stats...</h2>
-
-<p align="center">&nbsp;<img src="https://raw.githubusercontent.com/ABSanthosh/Stats/fdece95dc24aa5ea8e09ffe60f5819217cc206a7/generated/languages.svg" alt="absanthosh" />
-</p>
-
-<p  align="center" ><img src="https://raw.githubusercontent.com/ABSanthosh/Stats/fdece95dc24aa5ea8e09ffe60f5819217cc206a7/generated/languages.svg" alt="absanthosh" /></p>
+(Coming soon)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=absanthosh&label=Profile%20views&color=0e75b6&style=flat" alt="absanthosh" /> </p>
 
