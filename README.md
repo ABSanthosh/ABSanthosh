@@ -37,7 +37,7 @@
 
 <h2>Some stats...</h2>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=absanthosh&show_icons=true" alt="absanthosh" />
+<p align="center">&nbsp;<img src="https://raw.githubusercontent.com/ABSanthosh/Stats/fdece95dc24aa5ea8e09ffe60f5819217cc206a7/generated/overview.svg?token=AF2DM7ZK55USUJZWBPDVWHLBIIA7G" alt="absanthosh" />
 </p>
 
 <p  align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absanthosh&layout=compact" alt="absanthosh" /></p>
