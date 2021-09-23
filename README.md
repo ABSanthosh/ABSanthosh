@@ -36,7 +36,7 @@
 </p>
 
 <h2>Some stats...</h2>
-<span>
+<span align="center">
 <img src="https://github.com/ABSanthosh/Stats/blob/master/generated/languages.svg?raw=true"></img>
 <img src="https://github.com/ABSanthosh/Stats/blob/master/generated/overview.svg?raw=true"></img>
 </span>
