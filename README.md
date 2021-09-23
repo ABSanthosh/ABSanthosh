@@ -36,10 +36,10 @@
 </p>
 
 <h2>Some stats...</h2>
-<span align="center">
+<p align="center">
 <img src="https://github.com/ABSanthosh/Stats/blob/master/generated/languages.svg?raw=true"></img>
 <img src="https://github.com/ABSanthosh/Stats/blob/master/generated/overview.svg?raw=true"></img>
-</span>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=absanthosh&label=Profile%20views&color=0e75b6&style=flat" alt="absanthosh" /> </p>
 
