@@ -1,7 +1,18 @@
 <h1 align="center">Hello there!<br> I'm ABSanthosh</h1>
+
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=ABSanthosh&date_format=M%20j%5B%2C%20Y%5D&fire=0ED6DD"></img>
 </div>
+ 
+ 
+ <details>
+ <summary>Misc</summary>
+ <br/>
+ 
+ <img src="https://github.com/ABSanthosh/ABSanthosh/blob/main/devcard.svg" width="350" alt="Santhosh's Dev Card"/>
+ 
+ </details>
+ 
  
 <br>
 <details>
