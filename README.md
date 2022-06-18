@@ -1,9 +1,12 @@
-<h1 align="center">Hello there!<br> I'm ABSanthosh</h1>
 
-<div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=ABSanthosh&date_format=M%20j%5B%2C%20Y%5D&fire=0ED6DD"></img>
-</div>
+ <h1 align="center">
+  <img src="https://github.com/ABSanthosh/ABSanthosh/blob/main/qzgh1t3e58691.gif?raw=true" height="200px">&nbsp;
+
+ Hello there!<br> I'm ABSanthosh</h1>
  
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=ABSanthosh&date_format=M%20j%5B%2C%20Y%5D&fire=0ED6DD">&nbsp;
+</div>
  
  <details>
  <summary>Misc</summary>
