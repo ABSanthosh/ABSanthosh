@@ -1,6 +1,6 @@
 
  <h1 align="center">
-  <img src="https://github.com/ABSanthosh/ABSanthosh/blob/main/qzgh1t3e58691.gif?raw=true" height="200px">&nbsp;
+  <img src="https://github.com/ABSanthosh/ABSanthosh/blob/main/qzgh1t3e58691.gif?raw=true" height="100px">&nbsp;
 
  Hello there!<br> I'm ABSanthosh</h1>
  
